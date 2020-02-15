@@ -1,4 +1,4 @@
-# Twitter_Sentiment_Analysis
+# Sentiment_Analysis
 Natural Language Processing
 
 - Objective of this project was to apply basic natural language processing to understand sentiment of population towards a given variable. 
